@@ -11,6 +11,10 @@ const Home = () => {
     
     useEffect(() => {
         dispatch(setCars(carData.list))
+        return ()=>{
+            console.log("sankaplp");
+            
+        }
     }, [])
 
     
