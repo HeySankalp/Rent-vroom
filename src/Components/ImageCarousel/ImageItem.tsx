@@ -33,7 +33,7 @@ const ImageItem = (props: imagePropType) => {
             className='snap-start  w-full h-full inline-block overflow-hidden'>
             <img
                 ref={setElement}
-                className={`w-full h-full object-${objectFit ?? "cover"} bg-black`}
+                className={`image image-${objectFit ?? "cover"} bg-black`}
                 src={props.image}
                 alt=""
             />

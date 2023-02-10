@@ -113,10 +113,9 @@ export const carData = {
 
 
 export const images = [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb4kJRg6rICe5uhu2nyNB7PptCa4z57hdDmPUZu8H5jdH9XB3d73JR69w5mBQAzuRKPi0&usqp=CAU",
+    "https://images.wapcar.my/file1/4998ee87b67b473db2e810b0273f684e_1125x630.jpg",
+    "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Brezza/8679/1656579833096/front-left-side-47.jpg",
+    "https://auto.economictimes.indiatimes.com/files/retail_files/creta-1665492642-prod-var.jpg",
+    "https://img.indianautosblog.com/resize/750x-/2019/05/06/car-hire-mauritius-hyundai-grand-i10-car-rental-lo-9bf4.jpg",
 ]
