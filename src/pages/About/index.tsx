@@ -44,9 +44,7 @@ const About = () => {
                 style={previewStyle}
                 onError={handleError}
                 onScan={handleScan}
-                options={{
-                    facingMode : "environment"
-                }}
+                facingMode={"rear"}
             />
             <button onClick={changeFacing}>change</button>
             <button onClick={changeFacing}>change</button>
