@@ -46,7 +46,7 @@ const About = () => {
                 onScan={handleScan}
                 constraints={{
                     audio: false,
-                    video: { facingMode: "environment" }
+                    video: { facingMode: facing }
                 }}
             />
             <button onClick={changeFacing}>change</button>
