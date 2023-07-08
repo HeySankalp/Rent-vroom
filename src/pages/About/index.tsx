@@ -44,8 +44,11 @@ const About = () => {
                 style={previewStyle}
                 onError={handleError}
                 onScan={handleScan}
-                facingMode={facing}
+                options={{
+                    facingMode : "environment"
+                }}
             />
+            <button onClick={changeFacing}>change</button>
             <button onClick={changeFacing}>change</button>
             <div className='p-10'>
                 <h1 className='text-lg font-semibold'>About US</h1>
