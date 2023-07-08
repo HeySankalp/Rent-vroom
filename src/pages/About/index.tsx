@@ -44,7 +44,10 @@ const About = () => {
                 style={previewStyle}
                 onError={handleError}
                 onScan={handleScan}
-                facingMode={"rear"}
+                constraints={{
+                    audio: false,
+                    video: { facingMode: "environment" }
+                }}
             />
             <button onClick={changeFacing}>change</button>
             <button onClick={changeFacing}>change</button>
